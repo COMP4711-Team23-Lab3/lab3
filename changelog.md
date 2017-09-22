@@ -14,3 +14,6 @@ Sean
 
 Bill
     - completed tutorial 2 -
+
+Benjamin
+    - completed tutorial 3 -
